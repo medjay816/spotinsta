@@ -7,9 +7,9 @@ require_once 'Settings.php';
 error_reporting(0);
 
 
-$username = '';
+$username = 'tugratongurrr’;
 
-$password = '';
+$password = 'entelıfyoudarel1';
 
 $debug = false;
 
